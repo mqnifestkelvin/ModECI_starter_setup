@@ -154,4 +154,5 @@ Navigate into the newest file in the sphinx directory, this is usually a file na
 * Python 3.10 is stated to be compatible with ModECEI library according to the documentation, despite this, I encounted some minor instability issues while generating and working out a workflow for generating documentations with the ModECI library. The instable issues was observed while the running the make command.
 * Python 3.9 seems to be the most stable version according to this exercised.
 * **pip install .[all]** did not install some dependencies such as graphviz and sphinx. This had to be done separately.
-All this was made possible as result of testing with the different python libraries.
+
+All this was made possible as result of testing with the different python libraries via virtual environments.
