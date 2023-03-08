@@ -5,4 +5,4 @@ for the sake of organisation and future need and reference, I have taken the lib
 THIS REPOSITORY IS ALLOCATED FOR THE PURPOSE OF SUBMITTING ALL OUTREACHY/MODECEI TASKS AND ASSIGNMENTS.
 
 ## Tasks
-* [Task1](ModECI_starter_setup/README.md)
+* [Task1](https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/ModeCEI_task_1)
