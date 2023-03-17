@@ -10,12 +10,12 @@ THIS REPOSITORY IS ALLOCATED FOR THE PURPOSE OF SUBMITTING ALL OUTREACHY/MODECEI
 Task 1
 </summary>
 <ul>
-<li>* [Summary of how to generate the documenation after making changes to the MDF codes/examples](https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/ModeCEI_task_1)
- </li><li>* [MDF dependencies for python v37](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v37.md)
-</li><li>* [MDF dependencies for python v38](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v38.md)
-</li><li>* [MDF dependencies for python v39](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v39.md)
-</li><li>* [MDF dependencies for python v310](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v310.md)
-</li><li>* [MDF dependencies for python v311](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v311.md)
+<li> * [Summary of how to generate the documenation after making changes to the MDF codes/examples](https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/ModeCEI_task_1)
+ </li><li> * [MDF dependencies for python v37](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v37.md)
+</li><li> * [MDF dependencies for python v38](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v38.md)
+</li><li> * [MDF dependencies for python v39](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v39.md)
+</li><li> * [MDF dependencies for python v310](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v310.md)
+</li><li> * [MDF dependencies for python v311](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v311.md)
 </ul>
 </details>
 
