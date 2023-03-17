@@ -23,3 +23,11 @@ Task 1
 6. [MDF dependencies for python v311](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v311.md)
 </details>
 
+<details>
+<summary>
+Task 2
+</summary>
+    
+1. [SimpleExample task](https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/SimpleExample_task)
+</details>
+
