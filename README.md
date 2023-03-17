@@ -9,7 +9,7 @@ THIS REPOSITORY IS ALLOCATED FOR THE PURPOSE OF SUBMITTING ALL OUTREACHY/MODECEI
 <summary>
 Task 1
 </summary>
-1. [Summary of how to generate the documenation after making changes to the MDF codes/examples(https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/ModeCEI_task_1)
+1. [Summary of how to generate the documenation after making changes to the MDF codes/examples](https://github.com/mqnifestkelvin/ModECI_starter_setup/tree/Main/ModeCEI_task_1)
     
 2. [MDF dependencies for python v37](https://github.com/mqnifestkelvin/ModECI_starter_setup/blob/Main/ModeCEI_task_1/pip_freeze_py_v37_to_v311/pip_freeze_py_v37.md)
     
